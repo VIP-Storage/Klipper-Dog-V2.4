@@ -20,3 +20,5 @@ klippy-env/
 mjpg-streamer/
 oprint/
 printer-*.cfg
+*.bkp
+*.swp
