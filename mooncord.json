@@ -1,0 +1,17 @@
+{
+    "connection": {
+        "moonraker_socket_url": "ws://moron.vip:7125/websocket",
+        "moonraker_url": "http://moron.vip:7125",
+        "moonraker_token": "",
+        "bot_token": "MTA1NTUxNDcwNzkyODI4OTM0MA.Gcp_Ae.tm-v-yt2Tl-95N3e1SQeSBhWLRFk1tVJWmRS1Q"
+    },
+    "permission": {
+        "controllers": {
+            "users": "96074241471971328"
+        }
+    },
+    "webcam": {
+        "url": "http://192.168.1.244:8080/?action=snapshot"
+    },
+    "tmp_path": "/tmp/MoonCord"
+}
